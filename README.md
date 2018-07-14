@@ -1,11 +1,14 @@
 # Patatap Clone App
 
-**Clone of Patatap App.
-After pressing a button on keyboard animation is displayed and sound is played.
-Made in JavaScript. 
-Libraries used:
--peper.js
--howler.js**
+**Clone of Patatap App**
+
+**After pressing a button on keyboard animation is displayed and sound is played**
+
+**Made in JavaScript**
+
+**Libraries used:**
+- peper.js
+- howler.js**
 
 **Link to the website:**
 **https://dawidbudzynski.github.io/patatap_app_js/**
