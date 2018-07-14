@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Patatap App</title>
+    <!-- Load the Paper.js library -->
+    <script type="text/javascript" src="js/paper-full.js"></script>
+    <!-- Define inlined PaperScript associate it with myCanvas -->
+    <link rel="stylesheet" href="css/style.css">
+    <script type="text/paperscript" canvas="myCanvas">
+	var myCircle = new Path.Circle(new Point(100, 70), 50);
+	myCircle.fillColor = 'green';
+
+
+    </script>
+
+</head>
+<body>
+<canvas id="myCanvas" resize></canvas>
+</body>
+</html>
