@@ -8,7 +8,7 @@
 
 **Libraries used:**
 - peper.js
-- howler.js**
+- howler.js
 
 **Link to the website:**
 **https://dawidbudzynski.github.io/patatap_app_js/**
