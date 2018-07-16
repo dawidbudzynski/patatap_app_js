@@ -2,7 +2,7 @@
 
 **Clone of Patatap App**
 
-**After pressing a button on keyboard animation is displayed and sound is played**
+**After pressing a key on keyboard animation is displayed and sound is played**
 
 **Made in JavaScript**
 
