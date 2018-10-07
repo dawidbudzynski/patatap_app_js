@@ -3,7 +3,7 @@
 ## General info
 This is clone of Patatap App
 
-After pressing a key on keyboard animation is displayed and sound is played**
+After pressing a key on keyboard animation is displayed and sound is played
 
 ## Technologies
 * JavaScript
